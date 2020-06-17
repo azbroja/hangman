@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "category": "actor",
+    "solution": "Jean-Claude Van Damme"
+  },
+  {
+    "id": 2,
+    "category": "actor",
+    "solution": "Matt LeBlanc"
+  },
+  {
+    "id": 3,
+    "category": "actress",
+    "solution": "Angelina Jolie"
+  },
+
+  {
+    "id": 4,
+    "category": "actor",
+    "solution": "Sylvester Stallone"
+  },
+  {
+    "id": 5,
+    "category": "actor",
+    "solution": "Idris Elba"
+  },
+  {
+    "id": 6,
+    "category": "actor",
+    "solution": "Joaquin Phoenix"
+  },
+  {
+    "id": 7,
+    "category": "actor",
+    "solution": "Jack Nicholson"
+  },
+  {
+    "id": 8,
+    "category": "actor",
+    "solution": "Leonardo DiCaprio"
+  },
+  {
+    "id": 9,
+    "category": "actor",
+    "solution": "Alan Rickman"
+  },
+  {
+    "id": 10,
+    "category": "actor",
+    "solution": "Al Pacino"
+  },
+  {
+    "id": 11,
+    "category": "actor",
+    "solution": "Clint Eastwood"
+  },
+  {
+    "id": 12,
+    "category": "actor",
+    "solution": "Robert Downey Jr."
+  },
+  {
+    "id": 13,
+    "category": "actor",
+    "solution": "Tom Hanks"
+  },
+  {
+    "id": 14,
+    "category": "actor",
+    "solution": "Kevin Spacey"
+  },
+  {
+    "id": 15,
+    "category": "actor",
+    "solution": "Bryan Cranston"
+  }
+]
